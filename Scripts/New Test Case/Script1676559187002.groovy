@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://erp-qa.inspirejo.com/Tasks')
+WebUI.openBrowser('https://www.zara.com/jo/')
 
